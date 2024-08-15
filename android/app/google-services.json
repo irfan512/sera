@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196839440116",
+    "project_id": "sera-198ee",
+    "storage_bucket": "sera-198ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196839440116:android:428dad1ea7a55fa15ae8a1",
+        "android_client_info": {
+          "package_name": "com.triaxo.sera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfwt4_8ot1FHSQYVF7qZbaBaufQK58yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
